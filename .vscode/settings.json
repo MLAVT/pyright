@@ -14,3 +14,8 @@
     "typescript.tsdk": "node_modules/typescript/lib",
     "python.languageServer": "None",
 }
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
